@@ -9,6 +9,13 @@ return {
       "shfmt",
       "stylua",
       "typescript-language-server",
+      "gopls",
+      "dockerfile-language-server",
+      "docker-compose-language-service",
+      "goimports",
+      "gofumpt",
+      "gospel",
+      "golines",
     },
   },
 }
